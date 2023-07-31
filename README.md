@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python**, **TypeScript**, **Biology** & **videogames** !
 
-- 📫 How to reach me **simonetti.lisandra@icloud.com**
+- 📫 How to reach me ? **simonetti.lisandra@icloud.com** (Please, don't spam me!). I have also a discord : `@mara__li` !
 
 - ⚡ Fun fact **I'm autistic**, sorry if I sound rude!
 
