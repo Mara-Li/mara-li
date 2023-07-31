@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **simonetti.lisandra@icloud.com**
 
-- ⚡ Fun fact **I'm french**
+- ⚡ Fun fact **I'm autistic**, sorry if I sound rude!
 
 
 <h3 align="right">Languages and Tools:</h3>
