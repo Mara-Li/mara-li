@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python and Typescript**
 
-- 👯 I’m looking to collaborate on [Mkdocs Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
+- 👯 I’m looking to collaborate on [Mkdocs Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) and the planty plugins for Obsidian I have!
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **TypeScript**, **Biology** & **videogames** !
 
 - 📫 How to reach me **simonetti.lisandra@icloud.com**
 
