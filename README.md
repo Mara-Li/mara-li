@@ -4,17 +4,6 @@
 
 <p align="center"> <a href="https://twitter.com/Lisandra__S" target="blank"><img src="https://img.shields.io/twitter/follow/Lisandra__S?logo=twitter&style=for-the-badge" alt="Lisandra__S" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Typescript**
-
-- 👯 I’m looking to collaborate on [Mkdocs Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) and the planty plugins for Obsidian I have!
-
-- 💬 Ask me about **Python**, **TypeScript**, **Biology** & **videogames** !
-
-- 📫 How to reach me ? **simonetti.lisandra@icloud.com** (Please, don't spam me!). I have also a discord : `@mara__li` !
-
-- ⚡ Fun fact **I'm autistic**, sorry if I sound rude!
-
-
 <h3 align="right">Languages and Tools:</h3>
 <p align="right"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
