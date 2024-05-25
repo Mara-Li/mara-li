@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mara-Li</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lisandra-dev" alt="lisandra-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mara-li" alt="mara-li" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/Lisandra__S" target="blank"><img src="https://img.shields.io/twitter/follow/Lisandra__S?logo=twitter&style=for-the-badge" alt="Lisandra__S" /></a> </p>
 
@@ -14,6 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mara-li&show_icons=true&locale=en&layout=compact" alt="mara-li" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mara-li&show_icons=true&locale=en" alt="lisandra-dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mara-li&show_icons=true&locale=en" alt="mara-li" />
 </p>
 
